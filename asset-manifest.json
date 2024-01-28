@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5b0174f2.css",
-    "main.js": "/static/js/main.f60abd73.js",
+    "main.js": "/static/js/main.f25639c3.js",
     "static/media/portfolio.gif": "/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/prat.png": "/static/media/prat.e3744205bfbf76844208.png",
@@ -33,7 +33,6 @@
     "static/media/animated_logo_0.svg": "/static/media/animated_logo_0.abd0b20ec83cb1f60d42.svg",
     "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.4a83f63fd7dd55c4ca85.woff2",
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.1c638e5f7632ea819e77.woff2",
-    "static/media/iiitk_logo.png": "/static/media/iiitk_logo.170d558551a09a7d1620.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.d7577f35a3dac4e5636d.jpg",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.42a2cdaf132097cc499e.svg",
     "static/media/manOnTable.svg": "/static/media/manOnTable.f861b03b5a2d1a28c198.svg",
@@ -55,6 +54,7 @@
     "static/media/experience.svg": "/static/media/experience.c50c576af78a4172f78d.svg",
     "static/media/fa-regular-400.woff": "/static/media/fa-regular-400.2ccf005a6998d30de3d3.woff",
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.e5917ad1531005ea8c3f.woff2",
+    "static/media/ku_logo.png": "/static/media/ku_logo.cdc2aa2556509c88dfce.png",
     "static/media/feelingProud.svg": "/static/media/feelingProud.288e616ff8dc11bd4713.svg",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.20b580f8784fe74e6e38.svg",
     "static/media/blogs_image.svg": "/static/media/blogs_image.08bcc48d9a3783389c93.svg",
@@ -66,10 +66,10 @@
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.5b0174f2.css.map": "/static/css/main.5b0174f2.css.map",
-    "main.f60abd73.js.map": "/static/js/main.f60abd73.js.map"
+    "main.f25639c3.js.map": "/static/js/main.f25639c3.js.map"
   },
   "entrypoints": [
     "static/css/main.5b0174f2.css",
-    "static/js/main.f60abd73.js"
+    "static/js/main.f25639c3.js"
   ]
 }
