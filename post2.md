@@ -1,5 +1,5 @@
 # Ubuntu_Mac_File_Transfer
-This repo helps you transfer file between Ubuntu and Mac with the click of a button.
+This [repo](https://github.com/powerpratik/Ubuntu_Mac_File_Transfer) helps you transfer file between Ubuntu and Mac with the click of a button.
 
 # Mac Ubuntu File Transfer 
 
