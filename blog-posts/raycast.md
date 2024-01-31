@@ -2,7 +2,7 @@
 
 You might be wondering why do I need to replace spotlight search on my Mac? It works just great. Yes, it is great, but it can be so much better. From doing all the simple operations of spotlight like quick search files, currency conversion etc to complex operations like deploying this very Markdown on a webpage all automated through a simple trigger word. Let's take a look into some features I like about Raycast.
 
-### All of the features I mention can be invoked using a custom keyword or a custom keybind of your choice.
+### All of the features Imention can be invoked using a custom keyword or a custom keybind of your choice.
 ## 1) Extensions: A lot of extensions
 There are tons and tons of community driven extensions that you can install on raycast with just a click. It enables you to do things like search youtube content with metadata directly onto your spotlight like search box, compose mails directly into search box, play and control spotify music directly from the "cmd+space"  box. You get it, there are tons of extensions for you to use and it's increasing everyday. There is definitely something for you. 
 ### This image shows how easy it is to control spotify directly from raycast without going into the app itself

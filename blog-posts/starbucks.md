@@ -1,5 +1,5 @@
 # Evaluating Starbucks Promotional Offers - Capstone - Challenge
-![Starbuckies](./images/starbucks.jpeg 'https://towardsdatascience.com/starbucks-analyze-a-coffee-b4eef811aa4a') sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount, informational, or BOGO (buy one get one free). Some users might not receive any offers during certain weeks. Not all users receive the same offer, and that is the challenge to solve with this data set.
+![Starbuckies](./images/starbucks.jpeg 'https://towardsdatascience.com/starbucks-analyze-a-coffee-b4eef811aa4a') Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount, informational, or BOGO (buy one get one free). Some users might not receive any offers during certain weeks. Not all users receive the same offer, and that is the challenge to solve with this data set.
 This is a part of the Capstone Project for Udacity.
 The data we will work with are of three types:
 1. portfolio.json - containing offer ids and metadata about each offer (duration, type, etc.)
