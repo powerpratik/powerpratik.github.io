@@ -1,7 +1,7 @@
 # Evaluating Starbucks Promotional Offers - Capstone - Challenge
 <!-- ![Starbuckies](./images/starbucks.jpeg)  -->
 <img src="./images/starbucks.jpeg" alt="Starbucks " width="75%"/>
------- 
+
 
 Image credit : https://towardsdatascience.com/starbucks-analyze-a-coffee-b4eef811aa4a
 
