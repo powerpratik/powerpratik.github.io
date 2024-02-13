@@ -22,7 +22,7 @@ The process unfolds in two main tasks:
   - With the audio extracted, we harness the power of Whisper AI to transform our audio file into a text transcript, leveraging the model's pretrained capabilities for accuracy and efficiency.
 
 <!-- ![Transcribe Method](./images/transcribe_method.png "Transcribe Method"){width = 25%} -->
-<img src="./images/transcribe_method.png" alt=" Transcribe Method " width="50%"/>
+<img src="./images/transcribe_method.png" alt=" Transcribe Method " width="75%"/>
 
 ## Generating Summary Response
 Armed with the transcribed text, our next mission is to distill this information into a concise summary. Thanks to the prowess of NLP models, particularly GPT-based transformers, this task is handled with precision and nuance, capable of distinguishing between different speakers in the transcript.
@@ -30,13 +30,13 @@ Armed with the transcribed text, our next mission is to distill this information
 To leverage GPT for summarization, ensure you have developer access and an API key from OpenAI. With these in hand, the documentation guides you through generating a summary of your transcript.
 
 <!-- ![Get GPT Method](./images/get_gpt_response.png "Get GPT Method"){width = 25%} -->
-<img src="./images/get_gpt_response.png" alt=" Get GPT Method " width="50%"/>
+<img src="./images/get_gpt_response.png" alt=" Get GPT Method " width="75%"/>
 
 ## Optional: Generating Video of the Response
 Imagine elevating your summary with a touch of flair, presenting it through a virtual actor. This not only enhances your presentation but also adds a creative twist to your projects. Achievable with another tool, Clips from D_ID, this feature requires an API key obtained from creating a free account on their platform. With the summarized text and API key, Clips transforms your summary into a video, narrated by a virtual actor.
 
 <!-- ![Generating Video Response](./images/video_generation_method.png "Generating Video Response"){width = 25%} -->
-<img src="./images/video_generation_method.png" alt=" Generating Video Response " width="50%"/>
+<img src="./images/video_generation_method.png" alt=" Generating Video Response " width="75%"/>
 
 Isn't it remarkable to streamline the process from a recorded meeting or a YouTube video to audio transcription, summarization, and even video generation into a single automated script?
 
