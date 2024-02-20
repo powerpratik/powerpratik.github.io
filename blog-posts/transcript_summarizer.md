@@ -8,7 +8,7 @@ In this post, we'll explore how to leverage recorded video—be it from local st
 
 The post is divided into sections to explain how my script leverages the already available tools to summarize your meetings. I also have a bonus part where you can even use the summary generated and feed into another API to have a virtual actor read out the summary in news like format in a video. 
 We will be using many available tools like GPT, whisper, D_ID to acheive all this with a single script that connects it all. 
----
+
 
 ### Transcribing Audio
 The journey begins with extracting an audio transcript from your video recording. Whether it's an enlightening talk from YouTube or a significant meeting stored locally, the choice is yours. Flexibility is key, allowing you to summarize content that matters most to you. Among the plethora of transcription tools available, we'll focus on OpenAI's Whisper model for its impressive performance and compatibility with GPT, another OpenAI marvel.
