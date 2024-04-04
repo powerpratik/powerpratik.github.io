@@ -1,6 +1,7 @@
 # Introducing Zed
 
 Zed is a high-performance, multiplayer code editor created by the team behind Atom and Tree-sitter. It is designed to provide a productive and unobtrusive coding experience, combining the power of an IDE with the responsiveness of a lightweight editor.
+### Fun Fact: This blog is written in zed using the gpt support. With Natural language and not code of course :) 
 
 ## Open Source and High Performance
 
