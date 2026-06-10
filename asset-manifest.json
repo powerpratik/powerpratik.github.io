@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4ad02d5.css",
-    "main.js": "/static/js/main.e24f8ef0.js",
+    "main.css": "/static/css/main.75b20d86.css",
+    "main.js": "/static/js/main.396b4faf.js",
     "static/media/portfolio.gif": "/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/prat.png": "/static/media/prat.44ff756c8f0abaf1445d.png",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
@@ -41,6 +41,7 @@
     "static/media/gcp_logo.png": "/static/media/gcp_logo.63bb0649c9716d110b14.png",
     "static/media/fa-regular-400.eot": "/static/media/fa-regular-400.86ce78132c18df414d83.eot",
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.235a1aa30ba10c7d00d0.ttf",
+    "static/media/acm_logo.svg": "/static/media/acm_logo.7a1294e387b653642305.svg",
     "static/media/legato_logo.png": "/static/media/legato_logo.227e72c7979187840ba3.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.967f31dad3158d5be07b.svg",
     "static/media/github_logo.png": "/static/media/github_logo.15e591a7397b9ef45656.png",
@@ -61,14 +62,15 @@
     "static/media/fullstack.svg": "/static/media/fullstack.32a1ffc74848a2ed7dbf.svg",
     "static/media/education.svg": "/static/media/education.d5cc42f042227db12468.svg",
     "index.html": "/index.html",
+    "static/media/openai_logo.svg": "/static/media/openai_logo.99979baa24a721fc1c48.svg",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.1c2312558eb2e5f04a45.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
-    "main.a4ad02d5.css.map": "/static/css/main.a4ad02d5.css.map",
-    "main.e24f8ef0.js.map": "/static/js/main.e24f8ef0.js.map"
+    "main.75b20d86.css.map": "/static/css/main.75b20d86.css.map",
+    "main.396b4faf.js.map": "/static/js/main.396b4faf.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4ad02d5.css",
-    "static/js/main.e24f8ef0.js"
+    "static/css/main.75b20d86.css",
+    "static/js/main.396b4faf.js"
   ]
 }
